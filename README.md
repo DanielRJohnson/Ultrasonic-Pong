@@ -24,4 +24,8 @@ Pygame can be found here: https://www.pygame.org/wiki/about <br>
 # How to use
 To run this project, you need to recreate the setup shown above as well as:<br>
 * Have a working installation of Python on the Raspberry Pi. This comes out of the box with the Raspberry Pi.<br>
-* Have the Pygame module installed to that Python environment. https://www.pygame.org/wiki/GettingStarted <br>
+* Have the Pygame module installed to that Python environment. https://www.pygame.org/wiki/GettingStarted <br><br>
+Then,
+* Clone/download this repo
+* Navigate to where you saved the repo in a terminal
+* Run the command: "python main.py"
